@@ -1,1 +1,1 @@
-Restfull app!
+Restful app!
